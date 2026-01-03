@@ -226,9 +226,3 @@ The API will be available at `http://localhost:5555`.
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-
-For questions or support, please contact:
-
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
